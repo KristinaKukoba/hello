@@ -1,1 +1,1 @@
-cout << "Hello Git!" << endl;
+cout << "Hello Git! This is my amended change." << endl;
