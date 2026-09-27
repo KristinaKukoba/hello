@@ -1,1 +1,1 @@
-cout << "Hello from master!" << endl;
+cout << "Hello from GitHub!" << endl;
